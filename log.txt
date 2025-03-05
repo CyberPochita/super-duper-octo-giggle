@@ -1,0 +1,7 @@
+*   d8cfb34 (HEAD -> main) merge branches multiplication and division
+|\
+| * 751ec7f (division) Added function division
+* | cd4f1fe (multiplication) Added function multiplication
+|/
+* 5541ea9 (addition) Added addition and subtraction
+* 25c3b84 Added initial files
